@@ -15,7 +15,7 @@ Here’s how to get it up and running:
 1. **Clone the repo**:
     ```bash
     git clone https://github.com/mishraShilpa-28/pwd-strength-tester-and-cracker.git
-    cd password-strength-tester-cracker
+    cd pwd-strength-tester-and-cracker
     ```
 
 2. **Compile the Java files**:
